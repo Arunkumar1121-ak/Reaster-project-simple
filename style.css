@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.container{
+
+    margin: 20px;
+   
+}
+.web-one{
+
+    background-color: black;
+    color: white;
+    height: 80px;
+    padding: 5px;
+    text-align: center;
+
+}
+.web-one_title{
+    padding: 10px;
+    
+}
+.web-two{
+
+    margin: 10px;
+    text-align: center;
+
+}
+.web-two_item1{
+    border: black solid 3px;
+    display: inline-block;
+
+
+}
+.web-two_item2{
+    border: black solid 3px;
+    display: inline-block;
+
+
+}
+.web-one_desc{
+    display: inline-block;
+    color: lightcoral;
+    margin-top: 10px;
+}
+.web-two_item3{
+    border: black solid 3px;
+    display: inline-block;
+
+
+}
+.web-two_item4{
+    border: black solid 3px;
+    display: inline-block;
+
+
+}
+.web-two_item1_image
+{
+    height: 330px;
+    width: 210px;
+    
+}
+
+.web-two_item1_title{
+    margin: 2px;
+    padding-left: 7px;
+}
+.web-two_item1_desc{
+    margin: 2px;
+    padding-left: 15px;
+}
+.web-two_item1_button{
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+
+}
+.web-three{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+.container2{
+    text-align: center;
+}
+.form1{
+    
+    padding-left: 41%;
+}
+.input-text{
+
+    text-decoration: none;
+    margin: 5px;
+}
+.button2{
+
+    background-color: yellow;
+    width: 100px;
+    padding: 6px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 5px;
+
+}
