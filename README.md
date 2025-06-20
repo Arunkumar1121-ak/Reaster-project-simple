@@ -1,4 +1,5 @@
-#Reestar - Food Order Website
+#Reestar - Food Order Website.
+
 Reestar is a simple and clean single-page food ordering website built using HTML and basic CSS. It's designed to showcase food items and allow users to place orders through a basic order form.
 
 Features
